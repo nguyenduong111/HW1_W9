@@ -42,7 +42,7 @@ def unconvert(class_id, width, height, x, y, w, h):
 
 
 ## path root folder
-ROOT = r'D:\AI\AI_Thay_Cuong\data_test'
+ROOT = r'C:\Users\Admin\Downloads\VisDrone2019-DET-val'
 
 
 ## converts coco into xml 
